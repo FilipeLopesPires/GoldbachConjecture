@@ -1,6 +1,11 @@
 # Goldbach Conjecture
 A Study on one of the Oldest and Best-known Unsolved Problems in all of Mathematics
 
+![](https://img.shields.io/badge/Academical%20Project-Yes-green)
+![](https://img.shields.io/badge/Made%20with-C-blue)
+![](https://img.shields.io/badge/License-Free%20To%20Use-green)
+![](https://img.shields.io/badge/Maintained-No-red)
+
 ## Description
 
 The goal of this project is to study Goldbach's conjecture for integer pairs greater than 4 x 10^18, with the help of the C Language and the GNU Multi-Precision Library.
